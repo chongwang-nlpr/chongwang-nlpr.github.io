@@ -16,7 +16,7 @@ We got the champion of challenge1 (without external data) in MS-Celeb-1M in ICCV
 Our single ResNet-50 model got the LFW accuracy of 99.65%!
 
 ## Biography
-I got my PhD degree in 2015 from>National Laboratory of Pattern Recognition(NLPR), Institute of Automation Chinese Academy of Sciences (CASIA). My supervisor is Prof. Kaiqi Huang, and I am a member of Center for Research on Intelligent Perception and Computing (CRIPAC). I received the Master degree from Beijing University of Posts and Telecommunications.
+I got my PhD degree in 2015 from National Laboratory of Pattern Recognition(NLPR), Institute of Automation Chinese Academy of Sciences (CASIA). My supervisor is Prof. Kaiqi Huang, and I am a member of Center for Research on Intelligent Perception and Computing (CRIPAC). I received the Master degree from Beijing University of Posts and Telecommunications.
 
 My research interests include computer vision and deep learning, particularly face recognition, large-scale training and model compression. 
 
