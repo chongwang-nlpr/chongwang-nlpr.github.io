@@ -20,7 +20,7 @@ I got my PhD degree in 2015 from>National Laboratory of Pattern Recognition(NLPR
 
 My research interests include computer vision and deep learning, particularly face recognition, large-scale training and model compression. 
 
-### Publications
+## Publications
 
 **Chong Wang**, Xue Zhang, Xipeng Lan: [How To Train Triplet Networks Efficiently with 100K Identities?](https://arxiv.org/abs/1709.02940). ICCV Workshop on MS-Celeb-1M Challenge, 2017.
 
@@ -31,6 +31,16 @@ My research interests include computer vision and deep learning, particularly fa
 **Chong Wang**, Weiqiang Ren, Junge Zhang, Kaiqi Huang, Steve Maybank: [Large-Scale Weakly Supervised Object Localization with Latent Category Learning](http://ieeexplore.ieee.org/document/7021890/). TIP, 2014.
 
 **Chong Wang**, Kaiqi Huang, Dacheng Tao: [High-order Topology Modeling of Visual Words for Image Classification](http://ieeexplore.ieee.org/document/7131491/). TIP, 2015.
+
+**Chong Wang**, Kaiqi Huang: [VFM: Visual Feedback Model for Robust Object Recognition](https://link.springer.com/article/10.1007/s11390-015-1526-1). Journal of Computing Science, 2015.
+
+**Chong Wang**, Weiqiang Ren, Kaiqi Huang: [Window Mining by Clustering Mid-Level Representation for Weakly Supervised Object Detection](http://ieeexplore.ieee.org/document/7025826/). ICIP, 2014.
+
+**Chong Wang**, Junge Zhang, PeiPei Yang, Kaiqi Huang: [Robust Object Recognition via Visual Pathway Feedback](http://ieeexplore.ieee.org/document/6976824/). ICPR, 2014.
+
+**Chong Wang**, Kaiqi Huang: [HOW To Use Bag-of-Words Model Better for Image Classification](http://www.sciencedirect.com/science/article/pii/S0262885614001693). IVC, 2015.
+
+
 
 
 
