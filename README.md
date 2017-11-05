@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Chong Wang's Homepage
 
-You can use the [editor on GitHub](https://github.com/chongwang-nlpr/chongwang-nlpr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Research Scientist in Beijing Orion Star Technology Co Ltd.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: chongwang.nlpr@gmail.com
 
-### Markdown
+Address: Pacific Century Place Podiums, Workers’ Stadium N Rd, Chao Yang District, Beijing, China
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## News
+Our paper "Model Distillation of Knowledge Transfer from Face Classification to Alignment and Verification" is accepted by NIPS 2017 workshop.
 
-```markdown
-Syntax highlighted code block
+Our paper "How to Train Triplet Networks with 100K identities?" is accepted by ICCV 2017 workshop.
 
-# Header 1
-## Header 2
-### Header 3
+We got the champion of challenge1 (without external data) in MS-Celeb-1M in ICCV 2017!
 
-- Bulleted
-- List
+Our single ResNet-50 model got the LFW accuracy of 99.65%!
 
-1. Numbered
-2. List
+## Biography
+I got my PhD degree in 2015 from>National Laboratory of Pattern Recognition(NLPR), Institute of Automation Chinese Academy of Sciences (CASIA). My supervisor is Prof. Kaiqi Huang, and I am a member of Center for Research on Intelligent Perception and Computing (CRIPAC). I received the Master degree from Beijing University of Posts and Telecommunications.
 
-**Bold** and _Italic_ and `Code` text
+My research interests include computer vision and deep learning, particularly face recognition, large-scale training and model compression. 
 
-[Link](url) and ![Image](src)
-```
+## Publications
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chongwang-nlpr/chongwang-nlpr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Chong Wang**, Xue Zhang, Xipeng Lan: [How To Train Triplet Networks Efficiently with 100K Identities?](https://arxiv.org/abs/1709.02940). ICCV Workshop on MS-Celeb-1M Challenge, 2017.
