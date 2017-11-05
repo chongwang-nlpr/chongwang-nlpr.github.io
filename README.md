@@ -46,7 +46,7 @@ Pengcheng Liu, **Chong Wang**, Peipei Yang, Kaiqi Huang, Tieniu Tan: [Cross-Doma
 
 Yueying Kao, **Chong Wang**, Kaiqi Huang: [Visual aesthetic quality assessment with a regression model](http://ieeexplore.ieee.org/document/7351067/). ICIP 2015.
 
-Yongzhen Huang, **Kaiqi Huang**, Chong Wang, Tieniu Tan: [Exploring relations of visual codes for image classification](http://ieeexplore.ieee.org/abstract/document/5995655/). CVPR 2011.
+Yongzhen Huang, Kaiqi Huang, **Chong Wang**, Tieniu Tan: [Exploring relations of visual codes for image classification](http://ieeexplore.ieee.org/abstract/document/5995655/). CVPR 2011.
 
 Pengcheng Liu, Peipei Yang, **Chong Wang**, Kaiqi Huang, Tieniu Tan: [A Semi-Supervised Method for Surveillance-Based Visual Location Recognition](http://ieeexplore.ieee.org/document/7498648/). Trans on Cybernetics, 2017.
 
