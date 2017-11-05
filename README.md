@@ -48,7 +48,7 @@ Yueying Kao, **Chong Wang**, Kaiqi Huang: Visual aesthetic quality assessment wi
 
 Yongzhen Huang, **Kaiqi Huang**, Chong Wang, Tieniu Tan: Exploring relations of visual codes for image classification(http://ieeexplore.ieee.org/abstract/document/5995655/). CVPR 2011.
 
-Pengcheng Liu, Peipei Yang, **Chong Wang**, Kaiqi Huang, Tieniu Tan: A Semi-Supervised Method for Surveillance-Based Visual Location Recognition(http://ieeexplore.ieee.org/document/7498648/). Trans on Cybernetics, 2017.
+Pengcheng Liu, Peipei Yang, **Chong Wang**, Kaiqi Huang, Tieniu Tan: [A Semi-Supervised Method for Surveillance-Based Visual Location Recognition](http://ieeexplore.ieee.org/document/7498648/). Trans on Cybernetics, 2017.
 
 
 
