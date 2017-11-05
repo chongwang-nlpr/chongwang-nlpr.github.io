@@ -4,7 +4,7 @@ Research Scientist in Beijing Orion Star Technology Co Ltd.
 
 Email: chongwang.nlpr@gmail.com
 
-Address: Pacific Century Place Podiums, Workers’ Stadium N Rd, Chao Yang District, Beijing, China
+Address: Pacific Century Place Podiums, Workers' Stadium N Rd, Chao Yang District, Beijing, China
 
 ## News
 Our paper "Model Distillation of Knowledge Transfer from Face Classification to Alignment and Verification" is accepted by NIPS 2017 workshop.
@@ -40,7 +40,7 @@ My research interests include computer vision and deep learning, particularly fa
 
 **Chong Wang**, Kaiqi Huang: [HOW To Use Bag-of-Words Model Better for Image Classification](http://www.sciencedirect.com/science/article/pii/S0262885614001693). IVC, 2015.
 
-Weiqiang Ren, **Chong Wang**, Yanhua Cheng, Kaiqi Huang, Tieniu Tan: [Large-Scale Object Recognition with Weak Supervision](https://www.youtube.com/watch?v=FHKB7zIggmQ). ECCV Worshop on ILSVRC 2014.
+Weiqiang Ren, **Chong Wang**, Yanhua Cheng, Kaiqi Huang, Tieniu Tan: [Large-Scale Object Recognition with Weak Supervision(https://www.youtube.com/watch?v=FHKB7zIggmQ). ECCV Worshop on ILSVRC 2014.
 
 Pengcheng Liu, **Chong Wang**, Peipei Yang, Kaiqi Huang, Tieniu Tan: [Cross-Domain Object Recognition Using Object Alignment](http://www.bmva.org/bmvc/2015/papers/paper066/index.html). BMVC 2015. 
 
