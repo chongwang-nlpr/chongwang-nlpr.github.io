@@ -7,13 +7,13 @@ Email: chongwang.nlpr@gmail.com
 Address: Pacific Century Place Podiums, Workers' Stadium N Rd, Chao Yang District, Beijing, China
 
 ## News
-Our paper "Model Distillation of Knowledge Transfer from Face Classification to Alignment and Verification" is accepted by NIPS 2017 workshop.
+- Our paper "Model Distillation of Knowledge Transfer from Face Classification to Alignment and Verification" is accepted by NIPS 2017 workshop.
 
-Our paper "How to Train Triplet Networks with 100K identities?" is accepted by ICCV 2017 workshop.
+- Our paper "How to Train Triplet Networks with 100K identities?" is accepted by ICCV 2017 workshop.
 
-We got the champion of challenge1 (without external data) in MS-Celeb-1M in ICCV 2017!
+- We got the champion of challenge1 (without external data) in MS-Celeb-1M in ICCV 2017!
 
-Our single ResNet-50 model got the LFW accuracy of 99.65%!
+- Our single ResNet-50 model got the LFW accuracy of 99.65%!
 
 ## Biography
 I got my PhD degree in 2015 from National Laboratory of Pattern Recognition(NLPR), Institute of Automation Chinese Academy of Sciences (CASIA). My supervisor is Prof. Kaiqi Huang, and I am a member of Center for Research on Intelligent Perception and Computing (CRIPAC). I received the Bachelor degree from Beijing University of Posts and Telecommunications.
