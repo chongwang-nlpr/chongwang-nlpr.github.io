@@ -38,7 +38,7 @@ My research interests include computer vision and deep learning, particularly fa
 
 - **Chong Wang**, Junge Zhang, PeiPei Yang, Kaiqi Huang: [Robust Object Recognition via Visual Pathway Feedback](http://ieeexplore.ieee.org/document/6976824/). ICPR, 2014.
 
-- **Chong Wang**, Kaiqi Huang: [HOW To Use Bag-of-Words Model Better for Image Classification](http://www.sciencedirect.com/science/article/pii/S0262885614001693). IVC, 2015.
+- **Chong Wang**, Kaiqi Huang: [HOW to Use Bag-of-Words Model Better for Image Classification](http://www.sciencedirect.com/science/article/pii/S0262885614001693). IVC, 2015.
 
 - Weiqiang Ren, **Chong Wang**, Yanhua Cheng, Kaiqi Huang, Tieniu Tan: [Large-Scale Object Recognition with Weak Supervision](https://www.youtube.com/watch?v=FHKB7zIggmQ). ECCV Worshop on ILSVRC 2014.
 
