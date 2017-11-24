@@ -22,7 +22,7 @@ My research interests include computer vision and deep learning, particularly fa
 
 ## Publications
 
-- **Chong Wang**, Xue Zhang, Xipeng Lan: [How To Train Triplet Networks Efficiently with 100K Identities?](https://arxiv.org/abs/1709.02940). ICCV Workshop on MS-Celeb-1M Challenge, 2017.
+- **Chong Wang**, Xue Zhang, Xipeng Lan: [How To Train Triplet Networks with 100K Identities?](https://arxiv.org/abs/1709.02940). ICCV Workshop on MS-Celeb-1M Challenge, 2017.
 
 - **Chong Wang**, Xipeng Lan, Yangang Zhang: [Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification](https://arxiv.org/abs/1709.02929). NIPS Workshop, 2017.
 
