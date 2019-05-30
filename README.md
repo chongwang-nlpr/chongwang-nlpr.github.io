@@ -1,6 +1,6 @@
 ## Chong Wang's Homepage
 
-Research Scientist in Beijing Orion Star Technology Co Ltd.
+Research Engineer in Beijing Orion Star Technology Co Ltd.
 
 Email: chongwang.nlpr@gmail.com
 
